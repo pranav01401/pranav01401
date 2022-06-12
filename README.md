@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranav01401
-- 👀 I’m interested in DATA ANALYST AND SCIENCE
+- 👀 I’m interested in DATA ANALYSIS AND SCIENCE
 - 🌱 I’m currently learning PYTHON AND SQL
 - 💞️ I’m looking to collaborate on MACHINE LEARNING
 - 📫 How to reach me pranav.prabhakar1401@gmail.com
